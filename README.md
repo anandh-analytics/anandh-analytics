@@ -14,9 +14,6 @@ I build scalable data pipelines, analytics platforms, and business intelligence 
 
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
 <img src="https://skillicons.dev/icons?i=r" height="40"/>
-<img src="https://skillicons.dev/icons?i=java" height="40"/>
-<img src="https://skillicons.dev/icons?i=c" height="40"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
 
 <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
@@ -42,15 +39,6 @@ I build scalable data pipelines, analytics platforms, and business intelligence 
 <img src="https://skillicons.dev/icons?i=aws" height="40"/>
 <img src="https://skillicons.dev/icons?i=gcp" height="40"/>
 <img src="https://skillicons.dev/icons?i=azure" height="40"/>
-
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
-<img src="https://skillicons.dev/icons?i=linux" height="40"/>
-<img src="https://skillicons.dev/icons?i=bash" height="40"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="40"/>
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
 
 </p>
 
