@@ -30,6 +30,16 @@ I build scalable data pipelines, analytics platforms, and business intelligence 
 
 ---
 
+# Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandh-analytics&theme=tokyonight"/>
+
+</p>
+
+---
+
 # Featured Projects
 
 ## [Job Market Intelligence Platform](https://github.com/anandh-analytics/job-market-intelligence)
@@ -51,11 +61,26 @@ Modern data lakehouse architecture built on AWS implementing **Bronze → Silver
 • AWS S3  • Athena  • SQL  • Data Quality Pipelines  
 
 ---
+
+## Contribution Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandh-analytics&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anandh-analytics&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandh-analytics&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=anandh-analytics&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandh-analytics&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
 
 ---
 
