@@ -102,8 +102,8 @@ Technologies
 
 # Connect
 
-[LinkedIn](https://www.linkedin.com/in/anandhageethan-thamizharasan-1a270a172/) 
-[anandh1920@outlook.com](mailto:anandh@example.com) 
-+1-646-981-5323
-New York, NY
+- [LinkedIn](https://www.linkedin.com/in/anandhageethan-thamizharasan-1a270a172/) 
+- [anandh1920@outlook.com](mailto:anandh@example.com) 
+- +1-646-981-5323
+- New York, NY
 
