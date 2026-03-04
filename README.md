@@ -8,106 +8,49 @@ I build scalable data pipelines, analytics platforms, and business intelligence 
 
 ---
 
-# Tech Stack
-
-## Languages
+## Tech Stack
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
 <img src="https://skillicons.dev/icons?i=r" height="40"/>
 <img src="https://skillicons.dev/icons?i=java" height="40"/>
 <img src="https://skillicons.dev/icons?i=c" height="40"/>
 <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-</p>
 
----
-
-## Databases & Warehouses
-
-<p>
 <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
-<img src="https://img.shields.io/badge/Snowflake-Cloud%20Warehouse-blue?logo=snowflake&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20Redshift-Data%20Warehouse-orange?logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/BigQuery-Analytics-blue?logo=googlecloud&logoColor=white">
-</p>
 
----
+<img src="https://cdn.simpleicons.org/snowflake" height="40"/>
+<img src="https://cdn.simpleicons.org/amazonredshift" height="40"/>
+<img src="https://cdn.simpleicons.org/googlebigquery" height="40"/>
 
-## Data Engineering
+<img src="https://cdn.simpleicons.org/dbt" height="40"/>
+<img src="https://cdn.simpleicons.org/apacheairflow" height="40"/>
+<img src="https://cdn.simpleicons.org/apachespark" height="40"/>
+<img src="https://cdn.simpleicons.org/apachekafka" height="40"/>
 
-<p>
-<img src="https://img.shields.io/badge/dbt-Analytics%20Engineering-orange?logo=dbt&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-red?logo=apacheairflow&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Spark-Distributed%20Processing-orange?logo=apachespark&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Kafka-Streaming-black?logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/ETL-Data%20Pipelines-green">
-</p>
+<img src="https://cdn.simpleicons.org/pandas" height="40"/>
+<img src="https://cdn.simpleicons.org/numpy" height="40"/>
+<img src="https://cdn.simpleicons.org/jupyter" height="40"/>
 
----
+<img src="https://cdn.simpleicons.org/powerbi" height="40"/>
+<img src="https://cdn.simpleicons.org/tableau" height="40"/>
+<img src="https://cdn.simpleicons.org/plotly" height="40"/>
 
-## Data Processing & Analysis
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-blue?logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/PySpark-Distributed%20Processing-orange?logo=apachespark&logoColor=white">
-</p>
-
----
-
-## Visualization & BI
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-Python%20Viz-blue">
-<img src="https://img.shields.io/badge/Seaborn-Statistical%20Viz-blue">
-</p>
-
----
-
-## Cloud Platforms
-
-<p>
 <img src="https://skillicons.dev/icons?i=aws" height="40"/>
 <img src="https://skillicons.dev/icons?i=gcp" height="40"/>
 <img src="https://skillicons.dev/icons?i=azure" height="40"/>
-</p>
 
----
-
-## DevOps & Infrastructure
-
-<p>
 <img src="https://skillicons.dev/icons?i=docker" height="40"/>
 <img src="https://skillicons.dev/icons?i=kubernetes" height="40"/>
 <img src="https://skillicons.dev/icons?i=linux" height="40"/>
 <img src="https://skillicons.dev/icons?i=bash" height="40"/>
-</p>
 
----
-
-## Tools & Workflow
-
-<p>
 <img src="https://skillicons.dev/icons?i=git" height="40"/>
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-<img src="https://img.shields.io/badge/Jira-Project%20Tracking-blue?logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Agile-Scrum-green">
-</p>
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anandh-analytics&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandh-analytics&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -174,31 +117,6 @@ Technologies
 • Analytics engineering platforms  
 • Business intelligence dashboards  
 • Data quality systems  
-
----
-
-## Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/dbt-Analytics%20Engineering-orange?logo=dbt&logoColor=white">
-<img src="https://img.shields.io/badge/Snowflake-Cloud%20Warehouse-blue?logo=snowflake&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Airflow-Orchestration-red?logo=apacheairflow&logoColor=white">
-<img src="https://img.shields.io/badge/Apache%20Spark-Distributed%20Processing-orange?logo=apachespark&logoColor=white">
-
-</p>
-
-<p align="center">
-Data transformation • Cloud warehousing • Workflow orchestration • Distributed processing
-</p>
 
 ---
 
