@@ -62,18 +62,6 @@ Modern data lakehouse architecture built on AWS implementing **Bronze → Silver
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anandh-analytics&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandh-analytics&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
----
-
 # Connect
 
 - [LinkedIn](https://www.linkedin.com/in/anandhageethan-thamizharasan-1a270a172/) 
