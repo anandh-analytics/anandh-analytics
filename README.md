@@ -30,16 +30,6 @@ I build scalable data pipelines, analytics platforms, and business intelligence 
 
 ---
 
-# Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandh-analytics&theme=tokyonight"/>
-
-</p>
-
----
-
 # Featured Projects
 
 ## [Job Market Intelligence Platform](https://github.com/anandh-analytics/job-market-intelligence)
