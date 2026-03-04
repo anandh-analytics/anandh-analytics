@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anandhageethan Thamizharasan</h1>
 
-<h3 align="center">Data Analytics | Data Engineering | SQL | Python</h3>
+<h3 align="center">Data Analytics | Data Engineering | SQL | Python | Power BI | AWS | Azure</h3>
 
 <p align="center">
 I build scalable data pipelines, analytics platforms, and business intelligence systems that transform raw data into actionable insights.
