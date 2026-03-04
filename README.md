@@ -17,10 +17,10 @@ I build scalable data pipelines, analytics platforms, and business intelligence 
 <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
-<img src="https://cdn.simpleicons.org/snowflake" height="40"/>
-<img src="https://cdn.simpleicons.org/dbt" height="40"/>
-<img src="https://cdn.simpleicons.org/apacheairflow" height="40"/>
-<img src="https://cdn.simpleicons.org/apachespark" height="40"/>
+<img src="https://skillicons.dev/icons?i=snowflake" height="40"/>
+<img src="https://skillicons.dev/icons?i=dbt" height="40"/>
+<img src="https://skillicons.dev/icons?i=apacheairflow" height="40"/>
+<img src="https://skillicons.dev/icons?i=apachespark" height="40"/>
 <img src="https://cdn.simpleicons.org/powerbi" height="40"/>
 <img src="https://cdn.simpleicons.org/tableau" height="40"/>
 <img src="https://skillicons.dev/icons?i=aws" height="40"/>
