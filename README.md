@@ -12,20 +12,19 @@ I build scalable data pipelines, analytics platforms, and business intelligence 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=r" height="40"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-<img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
-<img src="https://skillicons.dev/icons?i=snowflake" height="40"/>
-<img src="https://skillicons.dev/icons?i=dbt" height="40"/>
-<img src="https://skillicons.dev/icons?i=apacheairflow" height="40"/>
-<img src="https://skillicons.dev/icons?i=apachespark" height="40"/>
-<img src="https://cdn.simpleicons.org/powerbi" height="40"/>
-<img src="https://cdn.simpleicons.org/tableau" height="40"/>
-<img src="https://skillicons.dev/icons?i=aws" height="40"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="40"/>
-<img src="https://skillicons.dev/icons?i=azure" height="40"/>
+![Python](https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-red?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-red?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-red?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-red?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-red?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-red?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-red?style=for-the-badge&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-red?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-red?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-red?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
 
 </p>
 
