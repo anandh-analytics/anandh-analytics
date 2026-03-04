@@ -30,67 +30,32 @@ I build scalable data pipelines, analytics platforms, and business intelligence 
 
 ---
 
-# Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandh-analytics&theme=tokyonight"/>
-
-</p>
-
----
-
 # Featured Projects
 
 ## [Job Market Intelligence Platform](https://github.com/anandh-analytics/job-market-intelligence)
 
-End-to-end analytics engineering pipeline analyzing job market trends.
+End-to-end analytics engineering pipeline that ingests job postings from multiple APIs, normalizes datasets, builds a star-schema warehouse in PostgreSQL, and publishes metrics for a Power BI executive dashboard.
 
-Architecture
+**Tech Used**
 
-API Sources  
-↓  
-Python Ingestion  
-↓  
-Data Normalization  
-↓  
-PostgreSQL Warehouse  
-↓  
-Analytics Views  
-↓  
-Power BI Dashboard  
-
-Technologies
-
-• Python  
-• SQL  
-• PostgreSQL  
-• Data warehouse modeling  
-• Power BI  
-
+Python • PostgreSQL • SQL • Data Modeling • ETL Pipelines • Power BI • Cron Automation • Observability
 
 ---
 
 ## [NYC Taxi Lakehouse (AWS)](https://github.com/anandh-analytics/nyc-taxi-lakehouse-aws)
 
-Lakehouse architecture implementing **Bronze → Silver → Gold layers**.
+Modern data lakehouse architecture built on AWS implementing **Bronze → Silver → Gold medallion layers** to process and transform large-scale NYC taxi trip datasets for analytics and reporting.
 
-Technologies
+**Tech Used**
 
-• AWS S3  
-• Athena  
-• SQL  
-• Data Quality Pipelines  
+• AWS S3  • Athena  • SQL  • Data Quality Pipelines  
 
 ---
+## GitHub Stats
 
-# What I Build
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anandh-analytics&show_icons=true&theme=tokyonight)
 
-• Data pipelines  
-• Data warehouses  
-• Analytics engineering platforms  
-• Business intelligence dashboards  
-• Data quality systems  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anandh-analytics&layout=compact&theme=tokyonight)
 
 ---
 
